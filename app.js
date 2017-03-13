@@ -4,7 +4,7 @@ var csv = require('ya-csv');
 var async = require('async');
 var _ = require('underscore');
 var writer = new csv.createCsvFileWriter("Links.csv");
-writer.writeRecord(["RentoMojo result"]);
+writer.writeRecord(["RM result"]);
 
 var mainLink = 'https://medium.com/';
 var result = [];
