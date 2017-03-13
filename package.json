@@ -1,0 +1,12 @@
+{
+  "name": "webCrawlerRM",
+  "version": "0.0.0",
+  "author": "Shubhankit",
+  "dependencies": {
+    "async": "^2.1.2",
+    "cheerio": "^0.22.0",
+    "request": "^2.78.0",
+    "ya-csv": "^0.9.4",
+    "underscore": "^1.8.3"
+  }
+}
